@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-22T16:15:32+06:00</updated>
+  <updated>2015-01-22T16:17:04+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,8 +21,19 @@
     <content type="html"><![CDATA[<p>This is an awe-fucking-some code snippet </p>
 
 
-<p><br>
-wowowoow</p>
+<p><br></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>public class wow {
+</span><span class='line'>  public void sayWow() {
+</span><span class='line'>      System.out.printlnt('wow');
+</span><span class='line'>  }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
