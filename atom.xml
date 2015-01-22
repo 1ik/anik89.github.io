@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-22T16:13:47+06:00</updated>
+  <updated>2015-01-22T16:14:51+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,10 +22,6 @@
 
 
 <p><br></p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>$ git clone git@github.com:imathis/octopress.git # fork octopress</span></code></pre></td></tr></table></div></figure>
-
 ]]></content>
   </entry>
   
