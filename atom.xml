@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Anik's Blog test]]></title>
+  <title><![CDATA[Anik's Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-22T17:59:45+06:00</updated>
+  <updated>2015-01-22T18:00:57+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Anik Hasan]]></name>
