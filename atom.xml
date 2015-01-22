@@ -4,7 +4,7 @@
   <title><![CDATA[Anik's Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-23T00:03:35+06:00</updated>
+  <updated>2015-01-23T04:33:05+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Anik Hasan]]></name>
@@ -14,38 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[This Is a Test Post]]></title>
-    <link href="http://anik89.github.io/blog/2015/01/22/this-is-a-test-post/"/>
-    <updated>2015-01-22T19:35:37+06:00</updated>
-    <id>http://anik89.github.io/blog/2015/01/22/this-is-a-test-post</id>
-    <content type="html"><![CDATA[<p>This is the summery</p>
-
-<!--more-->
+    <title type="html"><![CDATA[Just Starting Off]]></title>
+    <link href="http://anik89.github.io/blog/2015/01/23/just-starting-off/"/>
+    <updated>2015-01-23T04:12:41+06:00</updated>
+    <id>http://anik89.github.io/blog/2015/01/23/just-starting-off</id>
+    <content type="html"><![CDATA[<p>Beginning my blogging Journey.</p>
 
 
-<p>This is the main body.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How Does AngularJS Do Dependency Injection?]]></title>
-    <link href="http://anik89.github.io/blog/2015/01/22/how-does-angularjs-do-dependency-injection/"/>
-    <updated>2015-01-22T14:45:01+06:00</updated>
-    <id>http://anik89.github.io/blog/2015/01/22/how-does-angularjs-do-dependency-injection</id>
-    <content type="html"><![CDATA[<p>Angular JS is one of the best javascript library in the world and UI-Grid has given it a whole new shape.</p>
-
-<!--more-->
+<!-- more -->
 
 
-<p>Today I am going to show you how we can create and awesome and supercool ui-grid data table.</p>
+<p>So it&#8217;s been a long while that I have wanted to open my blog and write my thoughts about my works and life and now it starts here. It&#8217;s late because I think I am lazy or life didn&#8217;t give me enough opportunity to figure out a scope to give it a try.</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='Java'><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">post</span> <span class="o">{</span>
-</span><span class='line'>  
-</span><span class='line'><span class="o">}</span>
-</span></code></pre></td></tr></table></div></figure>
+
+
+
+<p>But, it&#8217;s better late than never ;). So, hoping to get a habit of blogging and I hope I&#8217;ll like it.</p>
+
+
+
+
+<p>Oh! I found this awesome blogging framework <a href="http://octopress.org/">Octopress</a>. I guess it&#8217;s one of the main reasons for me to get interested in blogging.</p>
 
 ]]></content>
   </entry>
