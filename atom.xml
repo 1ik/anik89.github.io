@@ -4,7 +4,7 @@
   <title><![CDATA[Anik's Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-28T03:28:54+06:00</updated>
+  <updated>2015-01-28T12:11:27+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Anik Hasan]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Creating a Notification System for With Laravel's Polymorphic Relationship in a Laravel Powered Site]]></title>
+    <link href="http://anik89.github.io/blog/2015/01/28/creating-a-notification-system-for-with-laravels-polymorphic-relationship-in-a-laravel-powered-site/"/>
+    <updated>2015-01-28T12:09:49+06:00</updated>
+    <id>http://anik89.github.io/blog/2015/01/28/creating-a-notification-system-for-with-laravels-polymorphic-relationship-in-a-laravel-powered-site</id>
+    <content type="html"><![CDATA[<p>coming soon..</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NetworkListView - Loads Data From URL, Infinite Scrolling and Pluggable Onclick Listener in One Class]]></title>
