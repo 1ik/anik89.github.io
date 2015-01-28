@@ -4,7 +4,7 @@
   <title><![CDATA[Anik's Blog]]></title>
   <link href="http://anik89.github.io/atom.xml" rel="self"/>
   <link href="http://anik89.github.io/"/>
-  <updated>2015-01-28T12:11:27+06:00</updated>
+  <updated>2015-01-28T12:12:21+06:00</updated>
   <id>http://anik89.github.io/</id>
   <author>
     <name><![CDATA[Anik Hasan]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Creating a Notification System for With Laravel's Polymorphic Relationship in a Laravel Powered Site]]></title>
+    <title type="html"><![CDATA[Creating a Notification System for With Laravel's Polymorphic Relationship in a Laravel Powered App]]></title>
     <link href="http://anik89.github.io/blog/2015/01/28/creating-a-notification-system-for-with-laravels-polymorphic-relationship-in-a-laravel-powered-site/"/>
     <updated>2015-01-28T12:09:49+06:00</updated>
     <id>http://anik89.github.io/blog/2015/01/28/creating-a-notification-system-for-with-laravels-polymorphic-relationship-in-a-laravel-powered-site</id>
